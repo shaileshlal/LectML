@@ -1,4 +1,4 @@
-#Lecture Notes
+# Lecture Notes
 
 These are the lecture notes covering some elements of statistical learning, generalized linear regression, logistic regression, artificial neural networks and convolutional neural networks.
 The table of contents is reproduced here:

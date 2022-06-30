@@ -20,7 +20,7 @@ IIT Kanpur. The topics covered are:
     2. Convolutional Layers 
     3. Pooling Layers 
     4. Putting it all together: A basic ConvNet
-    5. $1\times 1$ convolutions.
+    5. 1 x 1 convolutions.
     6. Fully Convolutional Neural Networks
 
 The notebooks use Python3, Numpy and Pandas. For machine learning we use 
@@ -28,5 +28,5 @@ scikit-learn and Keras/Tensorflow 2.
 
 [Notes](Notes/) contains a pdf file of the lecture notes.
 
-I suggest opening these notebooks in [Google Colab](https://colab.research.google.com/) by accessing File --> Open --> and then choosing the GitHub tab.
+I suggest opening these notebooks in [Google Colab](https://colab.research.google.com/) _via_ File --> Open --> and then choosing the GitHub tab.
  
