@@ -1,5 +1,5 @@
 # Notebooks for Machine Learning Lectures
-These are some notebooks to accompany the lectures on machine learning 
+These are some notebooks to accompany my lectures on machine learning 
 given at the String Theory group of ICTS-TIFR and the Dept of Physics, 
 IIT Kanpur. The topics covered are:
 
@@ -28,5 +28,6 @@ scikit-learn and Keras/Tensorflow 2.
 
 [Notes](Notes/) contains a pdf file of the lecture notes.
 
-I suggest opening these notebooks in [Google Colab](https://colab.research.google.com/) _via_ File --> Open --> and then choosing the GitHub tab.
+I suggest opening these notebooks in [Google Colab](https://colab.research.google.com/) 
+_via_ File --> Open --> and then choosing the GitHub tab.
  
